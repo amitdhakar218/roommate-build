@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Home silhouette and location icon inside safe 66dp zone (centered at 54, 54) -->
+    <!-- Safe zone: x from 21 to 87, y from 21 to 87 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,28 L28,49 L34,49 L34,78 C34,80.2 35.8,82 38,82 L70,82 C72.2,82 74,80.2 74,78 L74,49 L80,49 Z" />
+    <!-- Doorway cut -->
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M48,58 L60,58 L60,82 L48,82 Z" />
+    <!-- Location Pin Accent / Key Window -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,40 C56.76,40 59,42.24 59,45 C59,48.75 54,54 54,54 C54,54 49,48.75 49,45 C49,42.24 51.24,40 54,40 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,43.5 A1.5,1.5 0 1 0 54,46.5 A1.5,1.5 0 1 0 54,43.5 Z" />
+</vector>

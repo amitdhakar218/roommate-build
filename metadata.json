@@ -1,0 +1,6 @@
+{
+  "name": "RoomMate",
+  "description": "Student Room Rental & PG Marketplace to easily find and list rooms, PGs, and flats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
